@@ -9,6 +9,7 @@ import {
   HomeIcon,
 } from "@heroicons/react/solid";
 
+// Header 101
 function Header() {
   return (
     <div className="w-full border-b shadow-sm bg-white sticky top-0 z-50 ">
